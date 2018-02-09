@@ -25,4 +25,4 @@ The below Dashboard visualization chart is about the insights of US domestic fli
 
 ## **Author of this virsualization report**
 * Hyo Lee, linkedin [here](https://www.linkedin.com/in/hyo-max-lee-61241b13/)
-* December 17, 2018.
+* December 17, 2017.
