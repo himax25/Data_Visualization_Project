@@ -1,4 +1,4 @@
- # Data_Visualization_Project regarding US domestic Flight delays and cancellations report
+ # Data Visualization Project regarding US domestic Flight delays and cancellations report
 This is one of data visualization projects in Data Science Nanodegree program at UDACITY. 
 Base on the information which came from a Kaggle dataset, it tracked the on-time performance of US domestic flights operated by large air carriers in 2015. 
 I created three visualizations in Tableau with my insight as the followings.
