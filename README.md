@@ -1,7 +1,7 @@
 # Data_Visualization_Project
 This is one of data visualization projects in Data Science Nanodegree program at Udatcity. 
 Base on the information which came from a Kaggle dataset, it tracked the on-time performance of US domestic flights operated by large air carriers in 2015. 
-I created three virtualizations in Tableau with my insight as the followings.
+I created three visualizations in Tableau with my insight as the followings.
 
 ## Insight 1
 The below map is the information about flight's arrival delays in 2015 by each Airport at US with Airlines.
