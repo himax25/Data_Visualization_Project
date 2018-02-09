@@ -8,5 +8,5 @@ The below map is the information about flight's arrival delays in 2015 by each A
 * It showed that the worst arrival delay airport at US in 2015 was Hartsfield-Jackson Atlanta International Airport (17,877 times arrival delays).
 * DL airline has 11,508 arrival delay times at Hartsfield-Jackson Atlanta International Airport in 2015 as the 1st worst rank of the total number of arrival delay airlines at each airport in US.
 
-![screenshut](https://github.com/himax25/) You also find out the detail data visualization at the public website of Tableau. [Click here] (https://public.tableau.com/profile/.81401469#!/vizhome/FlightProject1/1?publish=yes)
+![screenshut](https://github.com/himax25/Data_Visualization_Project/blob/master/insight1.JPG) You also find out the detail data visualization at the public website of Tableau. [Click here] (https://public.tableau.com/profile/.81401469#!/vizhome/FlightProject1/1?publish=yes)
 
